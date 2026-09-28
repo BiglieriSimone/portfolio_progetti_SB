@@ -8,8 +8,8 @@ Questa repository raccoglie una selezione dei miei progetti principali con link 
 
 ## Competenze
 
-* **Linguaggi:** Java, C/C++, SQL, Verilog & yosys
-* **Paradigmi & Strumenti:** Object-Oriented Programming (OOP), Version Control, Linux
+* **Linguaggi:** Java, C/C++, SQL
+* **Paradigmi & Strumenti:** Object-Oriented Programming (OOP), Version Control
 
 ---
 
